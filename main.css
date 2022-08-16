@@ -6,19 +6,28 @@
 .logo{
     float: left;
     padding-top: 30px;
-    padding-left: 40px;
+    padding-left: 50px;
     font-family: 'Kaushan Script', cursive;
     font-size: 25px;
 
 }
+.back{
+    position: relative;
+    right:35px;
+    bottom:15px;
+    background-color: #C4D7E0;
+    color:#C4D7E0;
+    
+}
+
 .links{
     margin-left:30px;
-    padding-left:950px;
+    padding-left:960px;
     padding-top:40px;
 }
 .a{
     text-decoration: none;
-    padding-left: 100px;
+    padding-left: 40px;
     color:black;
     font-family: 'Rubik', sans-serif;
 }

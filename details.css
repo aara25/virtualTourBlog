@@ -6,20 +6,20 @@
 .logo{
     float: left;
     padding-top: 30px;
-    padding-left: 40px;
+    padding-left: 90px;
     font-family: 'Kaushan Script', cursive;
     font-size: 25px;
 
 }
 .links{
     margin-left:30px;
-    padding-left:990px;
+    padding-left:985px;
     padding-top:40px;
 }
 .a{
     text-decoration: none;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
     color:black;
     font-family: 'Rubik', sans-serif;
 }
@@ -28,7 +28,7 @@
     color:black;
     font-family: 'Rubik', sans-serif;
     border: solid #fff;
-    padding: 10px;
+    padding: 12px;
     border-radius: 5px;
 }
 hr{
@@ -52,6 +52,7 @@ a:hover{
     margin-left:90px;
     font-family: 'Kaushan Script', cursive;
     font-size: 25px;
+    margin-bottom: 40px;
 }
 .day1{
     width:85%;
@@ -72,13 +73,28 @@ a:hover{
     text-align: justify;
 }
 .content1h2{
+   
+    font-family: 'Rubik', sans-serif;
+    font-size: 23px;
+    text-align: justify;
+}
+table{
+    width:90%;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+.day{
+    padding: 10px;
+}
+.content1h1{
+    clear: left;
     font-family: 'Rubik', sans-serif;
     font-size: 23px;
     text-align: justify;
 }
 .img{
     width:34%;
-    margin-top:40px;
+    margin-top:50px;
     margin-left:90px;
     float: left;
 }
@@ -97,6 +113,24 @@ a:hover{
     width:85%;
     margin-top:60px;
     margin-left:150px;
+}
+.div1:hover{
+    box-shadow:  0 0 5px 5px lightslategray;
+    width:22.2%;
+    height: 530px;
+
+}
+.div2:hover{
+    box-shadow:  0 0 5px 5px lightslategray;
+    width:22.2%;
+    height: 530px;
+
+}
+.div3:hover{
+    box-shadow:  0 0 5px 5px lightslategray;
+    width:22.2%;
+    height: 530px;
+
 }
 .div1{
     width:22%;
@@ -121,7 +155,7 @@ a:hover{
 
 }
 .img{
-    margin-left:100px;
+    margin-left:80px;
     margin-bottom: 90px;
     margin-right: 60px;
 }
